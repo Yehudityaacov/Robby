@@ -1,0 +1,59 @@
+Microsoft Chart Controls for Microsoft .NET Framework 3.5              
+Microsoft DCF MUI (English) 2016                                       
+Microsoft Office Professional Plus 2016                                
+Microsoft OneNote MUI (English) 2016                                   
+Microsoft Office 32-bit Components 2016                                
+Microsoft Office Shared 32-bit MUI (English) 2016                      
+Microsoft Office OSM MUI (English) 2016                                
+Microsoft Office OSM UX MUI (English) 2016                             
+Microsoft InfoPath MUI (English) 2016                                  
+Microsoft Access MUI (English) 2016                                    
+Microsoft Office Shared Setup Metadata MUI (English) 2016              
+Microsoft Excel MUI (English) 2016                                     
+Microsoft Access Setup Metadata MUI (English) 2016                     
+Microsoft PowerPoint MUI (English) 2016                                
+Microsoft Publisher MUI (English) 2016                                 
+Microsoft Outlook MUI (English) 2016                                   
+Microsoft Groove MUI (English) 2016                                    
+Microsoft Word MUI (English) 2016                                      
+Microsoft Skype for Business MUI (English) 2016                        
+Microsoft Office Proofing (English) 2016                               
+Microsoft Office Shared MUI (English) 2016                             
+Microsoft Office Proofing Tools 2016 - English                         
+Herramientas de corrección de Microsoft Office 2016: español           
+Outils de vérification linguistique 2016 de Microsoft Office - Français
+Backup and Sync from Google                                            
+Intel(R) Management Engine Components                                  
+WlSarService                                                           
+Show Window                                                            
+Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.24215             
+ScriptMerge 2018                                                       
+Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215             
+Qualcomm Atheros Bluetooth Installer (64)                              
+Intel(R) Chipset Device Software                                       
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161         
+Adobe Refresh Manager                                                  
+Adobe Acrobat Reader DC                                                
+Intel® Trusted Connect Service Client                                  
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161         
+Qualcomm Atheros Setup                                                 
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030          
+S Agent                                                                
+Microsoft VC++ redistributables repacked.                              
+Samsung System Agent                                                   
+Intel(R) Rapid Storage Technology                                      
+Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.24215          
+UE4 Prerequisites (x64)                                                
+Intel(R) Management Engine Components                                  
+Google Update Helper                                                   
+Mobile Broadband Driver Package                                        
+SAPIEN Updates                                                         
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030          
+Samsung System Agent                                                   
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030             
+Microsoft VC++ redistributables repacked.                              
+Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215          
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030             
+Document Explorer 2018                                                 
+
+
